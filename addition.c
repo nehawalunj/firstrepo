@@ -9,11 +9,15 @@ print("here we go");
 print("add",result=a+b);
 print("sub",result=a-b);
 mul();
-
+div();
 }
 mul()
 {
   print("mul",2*3)
+}
+div()
+{
+  print(4/2);
 }
 
 
